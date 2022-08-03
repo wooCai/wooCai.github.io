@@ -224,7 +224,7 @@ hr:before,
 #aside-content .card-widget,
 .layout > .recent-posts .pagination > *:not(.space) {
   border-radius: 8px;
-  background: rgba(255,255,255,0.89);
+  background: var(--global-bg);
   -webkit-box-shadow: var(--card-box-shadow);
   box-shadow: var(--card-box-shadow);
   -webkit-transition: all 0.3s;
